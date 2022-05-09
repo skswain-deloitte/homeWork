@@ -1,2 +1,3 @@
 i am here to commit without
 staging.... like not adding before commit
+Now am trying to do some modification not on master branch but using feature branch
