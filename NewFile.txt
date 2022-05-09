@@ -1,0 +1,2 @@
+i am here to commit without
+staging.... like not adding before commit
